@@ -1,0 +1,7 @@
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\LeapYear\LeapYear\obj\Debug\LeapYear.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\LeapYear\LeapYear\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\LeapYear\LeapYear\bin\Debug\LeapYear.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\LeapYear\LeapYear\bin\Debug\LeapYear.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\LeapYear\LeapYear\bin\Debug\LeapYear.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\LeapYear\LeapYear\obj\Debug\LeapYear.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\March 2021\homework\LeapYear\LeapYear\obj\Debug\LeapYear.pdb
